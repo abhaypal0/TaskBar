@@ -25,4 +25,4 @@ Since this is an open-source project, you can "side-load" it into your browser f
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/abhaypal0/glass-task-manager.git](https://github.com/abhaypal0/glass-task-manager.git)
+   git clone [https://github.com/abhaypal0/TaskBar.git](https://github.com/abhaypal0/TaskBar.git)
