@@ -5,6 +5,10 @@
   "description": "A premium glassmorphism task manager with live badge notifications.",
   "permissions": ["storage"],
   "action": {
-    "default_popup": "TaskBar.html"
+    "default_popup": "TaskBar.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "128": "icon.png"
   }
 }
