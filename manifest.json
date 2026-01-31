@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Glass Task Manager",
+  "version": "1.2",
+  "description": "A premium glassmorphism task manager with live badge notifications.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "TaskBar.html"
+  }
+}
