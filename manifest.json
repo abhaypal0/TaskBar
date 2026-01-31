@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Glass Task Manager",
-  "version": "1.2",
-  "description": "A premium glassmorphism task manager with live badge notifications.",
+  "version": "1.0",
+  "description": "A premium glassmorphism task manager for modern browsers.",
   "permissions": ["storage"],
   "action": {
     "default_popup": "TaskBar.html",
@@ -10,5 +10,11 @@
   },
   "icons": {
     "128": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "taskbar@abhaypal.com",
+      "strict_min_version": "109.0"
+    }
   }
 }
